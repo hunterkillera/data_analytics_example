@@ -1,2 +1,2 @@
-# data_analytics_example
-Use the code from https://github.com/kylemonahan/data200_datascienceresumes to make a resume.
+# R for creating a resume
+This is the code from https://github.com/kylemonahan/data200_datascienceresumes and it can be used as creating a resume.
