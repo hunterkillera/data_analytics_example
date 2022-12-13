@@ -1,0 +1,128 @@
+---
+title: "Kyle Monahan"
+author: Kyle M Monahan
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # Thanks to Eric R. Scott for this tip! 
+    self_contained: false
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Data](data_icon.png){width=30%}
+<!-- ![Data](`r here::here("data_icon.png")`) -->
+
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i>sli42@tufts.edu
+- <i class="fa fa-github"></i> [https://github.com/hunterkillera](https://github.com/hunterkillera)
+- <i class="fa fa-phone"></i> +1 781-491-5228
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Experienced in running multivariate regression. 
+
+- Performing **data analysis**, with a focus on engineering models
+
+- Experienced in **data communication** and client relations
+
+- Wrote production-level **R/Python/Stata/SQL** 
+
+
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!--This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).-->
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Siwei Li {#title}
+--------------------------------------------------------------------------------
+
+### Data Analytics student seeking Spring 2022 internship
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Tufts University
+
+MS Candidate in Data Analysis
+
+Medford, MA
+
+2014--Current
+
+
+### Pennsylvania State University
+
+B.A. in Data Science
+
+State College, PA
+
+2017--2021
+
+
+
+Research Experience {data-icon=flask}
+--------------------------------------------------------------------------------
+
+### Research Assistant
+
+Crowd AI Lab
+
+State College, PA
+
+2018--2019
+
+- Utilized Twitter's API to collect a variety of images with its Captions
+- Train a model for Image recognition with complete sentence
+
+
+
+Selected Project Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Spotify Music Suggestion App(Neo4j, Python, HTML, FLask)
+
+Pennsylvania State University
+
+State College, MA
+
+2017--2018
+
+<!--::: concise-->
+- A website that allows users to input an artist's name and returns artists the queries artist has worked with along with songs they made
+- We used Neo4j as our backend storage database, Python to obtain and manipulate the data from Spotify's API, and HTML and Flask to create the website and its design
+<!--:::-->
+
+
+
+
+Selected Presentations {data-icon=comment-alt}
+--------------------------------------------------------------------------------
+### DATA-200 Final Project
+Presented a model for time series analysis of crime in Boston area
+
+Medford, MA
+
+March 2022
+
+
